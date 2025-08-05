@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "1 Campanas Villa Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06895146, -36.59434421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "12 Campanas Estadio Anfa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09218303, -36.63258689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Condominio Plaza El Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0625952, -36.59283113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Villa Emanuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0721677, -36.58751662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Calle La Pampa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.08974421, -36.62935123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Calle La Candelaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09226121, -36.62345512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Calle La Candelaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09115507, -36.62240357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Doña Francisca I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.078104, -36.63002754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Doña Francisca III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.07338488, -36.63117002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Villa Los Dominicos La Campiña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06705785, -36.60542102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Villa Los Dominicos Villa Verde Parque I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.07198341, -36.605978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Paseo Aragon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0827512, -36.61479795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "3 Campanas en Parque Deportivo Quilamapu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0907204, -36.58970594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Cancha del Avance, UltraEstacion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.11356062, -36.60882261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Cancha Atlanta, Pobl. Chillancito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.08477257, -36.60787086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Villa Los Dominicos III San Alberto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06361666, -36.60376623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 Campanas Pobl Vicente Perez Cancha de Futbol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.12339178, -36.61372009]
+      }
+    }
+  ]
+}

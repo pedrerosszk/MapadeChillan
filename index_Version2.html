@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa Campanas de Vidrio Chillán</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+      #map { width: 100%; height: 600px; }
+      body { font-family: Arial, sans-serif; }
+    </style>
+</head>
+<body>
+  <h2>Mapa Campanas de Vidrio Chillán</h2>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    var map = L.map('map').setView([-36.61, -72.10], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    fetch('campanas_chillan.geojson')
+      .then(response => response.json())
+      .then(data => {
+        L.geoJSON(data, {
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.nombre);
+          }
+        }).addTo(map);
+      });
+  </script>
+</body>
+</html>
